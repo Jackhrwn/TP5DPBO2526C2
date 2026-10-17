@@ -87,25 +87,25 @@ TP5DPBO2526C.../
 ## 📷 Dokumentasi Saat Program Dijalankan
 
 ### 1. Ada Kolom yang Kosong
-[Kolom Form Kosong](Dokumentasi/Form%20Kolom%20Masih%20Kosong.mp4)
+https://github.com/user-attachments/assets/6df2b50d-bdf3-4c15-8793-d1deed7aab10
 
 ### 2. Tahun Lahir Bukan Angka
-[Tahun Lahir Bukan Angka](Dokumentasi/Tahun%20Lahir%20Bukan%20Angka.mp4)
+https://github.com/user-attachments/assets/b899e335-22fb-4105-9376-d4671aa2cbaa
 
 ### 3. Email Tidak Valid
-[Email Tidak Valid](Dokumentasi/Email%20Tidak%20Valid.mp4)
+https://github.com/user-attachments/assets/ee5f40ec-c501-422d-b3ff-0aed15891c4c
 
 ### 4. ID Sudah Digunakan (Duplikat)
-[ID Duplikat](Dokumentasi/ID%20Sudah%20Digunakan.mp4)
+https://github.com/user-attachments/assets/552917a6-92e4-4fee-9683-4a051036e6cf
 
 ### 5. Create - menambah Data (Terhubung Ke Database)
-[Create](Dokumentasi/Create-TerhubungKeDatabase.mp4)
+https://github.com/user-attachments/assets/4c599a3d-ebff-45fe-bee1-0994b480c3fe
 
 ### 6. Update - mengubah Data (Terhubung Ke Database)
-[Update](Dokumentasi/Update-TerhubungKeDatabase.mp4)
+https://github.com/user-attachments/assets/bc583a5c-b571-4dfe-89b7-9aa4ed6a08b7
 
 ### 7. Delete - Menghapus Data (Terhubung Ke Database)
-[Delete](Dokumentasi/Delete-TerhubungKeDatabase.mp4)
+https://github.com/user-attachments/assets/a6c086e1-994f-4c29-ab07-a48b10917b0b
 
 
 
